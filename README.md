@@ -6,6 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec urna tellu
 
 * Unidad 1 - Fundamentos de programación en Python (Parte I).
   * Instalación y configuración de entorno de desarrollo.
+      * Ejercicios
   * Conceptos básicos de la programación secuencial.
   * Tipos de datos.
   * Operadores básicos.
@@ -44,3 +45,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec urna tellu
   * Beat tracking.
 
 ## Docentes
+
+* [Maximiliano Yommi](https://www.linkedin.com/in/myommi)
+* [Fabricio Chungo](https://www.linkedin.com/in/fabricio-chungo-983421b2)
+* [Ariel Groisman](https://www.linkedin.com/in/ariel-groisman)
+
+## Contactos
+
+* Mail: infiniemlab.dsp@gmail.com
+* Repositorio: [GitHub](https://github.com/infiniemlabs-acustica)
+* Facebook: [Infiniem Labs - Face](https://www.facebook.com/InfiniemLab)
+* WebSite: [Infiniem Labs - Web](https://infiniemacustica.com/)
+
+## Licencia
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este documento se destribuye con una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia Atribución CompartirIgual 4.0 Internacional de Creative Commons</a>.
+
+© 2019. Infiniem Lab DSP. **infiniemlab.dsp@gmail.com**. Curso de Procesamiento de Señales en Python (CC BY-SA 4.0)
