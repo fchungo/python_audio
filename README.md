@@ -4,29 +4,19 @@ En este repositorio de código, encontrará las clases y los ejercicios plantead
 
 ### Material del seminario
 
-Todas las clases del seminario estan desarrolladas en *notebooks* de [Jupyter](https://jupyter.org/). Para disponer almacenar el material se puede realizar de la siguiente manera:
+Todas las clases del seminario estan desarrolladas en *notebooks* de [Jupyter](https://jupyter.org/). Para disponer del material se puede realizar de la siguiente manera:
 
 **Con `git`**
-Si tiene instalado git, la forma más fácil de acceder a estos archivos es clonar el repositorio en el directorio que elija:
+Si tiene instalado git, la forma más fácil de acceder a estos archivos es clonar el repositorio en el directorio que elija.
 
 **Sin `git`**
-Alternativamente, puede descargar todo el repositorio como un archivo .zip desde la página de inicio del repositorio utilizando el botón verde "Clonar o descargar" en la esquina superior derecha, o haciendo clic aquí.
-
-Ademas de disponer de todo el material en el pendrive, las últimas actualizaciones del contenido del curso está alojadas en [GitLab](https://about.gitlab.com/), una plataforma para almacenar proyectos de software que también proporciona una serie de herramientas para el trabajo en equipo. Digamos que es una especie de red social-herramienta para escribir y compartir código.
-
-Simplemente ve a nuestro [repositorio del curso en GitLab](https://gitlab.com/infiniemlab.dsp/workshop_EST.git), y en la parte derecha encontrarás un botón Download:
-
-
-**Guardar** el archivo y **descomprimirlo**. De manera alternativa **clonar** utilizando la dirección https brindada en dicha página.
-
-> **Nota:** Si queres conocer un poco más respecto al uso de Git, se recomienda fuertemente el siguiente [link](002-introGit.ipynb). 
-
+Alternativamente, puede descargar todo el repositorio como un archivo .zip desde la página de inicio del repositorio utilizando el botón verde "Clonar o descargar" en la esquina superior derecha.
 
 ### Contenidos del curso
 
 * Unidad 1 - Fundamentos de programación en Python (Parte I).
-  * [Instalación y configuración de entorno de desarrollo](https://nbviewer.jupyter.org/github/maxiyommi/python_audio/blob/master/Unidad%201%20-%20Fundamentos%20de%20programaci%C3%B3n%20en%20Python%20I/notebook/instalacion.ipynb).
-      * Ejercicios
+  * [Instalación y configuración del entorno de desarrollo](https://nbviewer.jupyter.org/github/maxiyommi/python_audio/blob/master/Unidad%201%20-%20Fundamentos%20de%20programaci%C3%B3n%20en%20Python%20I/notebook/instalacion.ipynb).
+      * Ejercicios.
   * Conceptos básicos de la programación secuencial.
   * Tipos de datos.
   * Operadores básicos.
