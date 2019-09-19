@@ -1,11 +1,22 @@
 # SEMINARIO DE INGENIERÍA DE SONIDO DE ALTA ESPECIALIZACIÓN
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec urna tellus. Aenean et lacus sed lectus sagittis ullamcorper. Nulla tincidunt cursus sem, vitae euismod risus iaculis auctor. Nunc laoreet blandit enim, non tempor turpis blandit sit amet. Proin ut velit pretium, viverra est at, accumsan ipsum. Nulla commodo molestie ipsum, et blandit ligula fermentum eu. Cras condimentum augue nisi, id cursus mauris dictum et. Donec fringilla et augue id viverra. Suspendisse commodo posuere leo, ac vestibulum dui laoreet in. Suspendisse mattis condimentum dui venenatis lobortis. Suspendisse ac hendrerit neque, eu sodales nunc. Vivamus pellentesque elit a dui sagittis, in luctus massa dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque erat sed fermentum consequat. Nullam tincidunt, nulla sit amet semper lacinia, tortor tellus efficitur dolor, venenatis dignissim metus elit vel mi.gelatina.
+En este repositorio de código, encontrará las clases y los ejercicios planteados durante el seminario. Todas los apuntes, codigos de muestra y ejercicios están ordenados por clase.
+
+### Material del seminario
+
+Todas las clases del seminario estan desarrolladas en *notebooks* de [Jupyter](https://jupyter.org/). Para disponer del material se puede realizar de la siguiente manera:
+
+**Con `git`**
+Si tiene instalado git, la forma más fácil de acceder a estos archivos es clonar el repositorio en el directorio que elija.
+
+**Sin `git`**
+Alternativamente, puede descargar todo el repositorio como un archivo .zip desde la página de inicio del repositorio utilizando el botón verde "Clonar o descargar" en la esquina superior derecha.
 
 ### Contenidos del curso
 
 * Unidad 1 - Fundamentos de programación en Python (Parte I).
-  * Instalación y configuración de entorno de desarrollo.
+  * [Instalación y configuración del entorno de desarrollo](https://nbviewer.jupyter.org/github/maxiyommi/python_audio/blob/master/Unidad%201%20-%20Fundamentos%20de%20programaci%C3%B3n%20en%20Python%20I/notebook/instalacion.ipynb).
+      * Ejercicios.
   * Conceptos básicos de la programación secuencial.
   * Tipos de datos.
   * Operadores básicos.
@@ -44,3 +55,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec urna tellu
   * Beat tracking.
 
 ## Docentes
+
+* [Maximiliano Yommi](https://www.linkedin.com/in/myommi)
+* [Fabricio Chungo](https://www.linkedin.com/in/fabricio-chungo-983421b2)
+* [Ariel Groisman](https://www.linkedin.com/in/ariel-groisman)
+
+## Contactos
+
+* Mail: infiniemlab.dsp@gmail.com
+* Repositorio: [GitHub](https://github.com/infiniemlabs-acustica)
+* Facebook: [Infiniem Labs - Face](https://www.facebook.com/InfiniemLab)
+* WebSite: [Infiniem Labs - Web](https://infiniemacustica.com/)
+
+## Licencia
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este documento se destribuye con una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia Atribución CompartirIgual 4.0 Internacional de Creative Commons</a>.
+
+© 2019. Infiniem Lab DSP. **infiniemlab.dsp@gmail.com**. Curso de Procesamiento de Señales en Python (CC BY-SA 4.0)
